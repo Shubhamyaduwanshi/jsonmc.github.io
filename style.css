@@ -53,3 +53,6 @@ a {
   text-decoration: none;
   line-height: 1.25;
 }
+dl dt {
+  font-weight: bold;
+}
