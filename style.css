@@ -56,3 +56,6 @@ a {
 dl dt {
   font-weight: bold;
 }
+.file-location {
+  font-size: smaller;
+}
